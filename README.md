@@ -47,7 +47,7 @@
 >
 > Basing on ROS, the SDK allows the development of LD19 on different platform(PC, SBC).
 
-## General discription
+## General description
 
 The file structure of this repositories is shown in the graph below:
 
